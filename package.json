@@ -1,0 +1,27 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "Yet another Express \"Hello world\" project",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'I am a test \\o/'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FWoelffel/express-hello-world.git"
+  },
+  "keywords": [
+    "hello world",
+    "nodejs",
+    "express"
+  ],
+  "author": "Frederic Woelffel <hello@fwoelffel.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FWoelffel/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/FWoelffel/express-hello-world#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
